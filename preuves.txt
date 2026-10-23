@@ -1,0 +1,47 @@
+PARTIE1
+
+Question1:
+PS C:\Users\Document node test.js
+le ticket de la personne de 11 ans est de 1500 FCFA.
+le ticket de la personne de 12 ans est de 1500 FCFA.
+le ticket de la personne de 13 ans est de 1500 FCFA.
+le ticket de la personne de 14 ans est de 1500 FCFA.
+le ticket de la personne de 15 ans est de 1500 FCFA.
+le ticket de la personne de 16 ans est de 2500 FCFA.
+le ticket de la personne de 17 ans est de 2500 FCFA.
+le ticket de la personne de 18 ans est de 2500 FCFA.
+le ticket de la personne de 19 ans est de 2500 FCFA.
+le ticket de la personne de 20 ans est de 2500 FCFA.
+
+Question2
+PS C:\Users\Document node test.js
+le ticket de la personne de 11 ans est de 1500 FCFA.
+le ticket de la personne de 12 ans est de 1500 FCFA.
+le ticket de la personne de 13 ans est de 1500 FCFA.
+le ticket de la personne de 14 ans est de 1500 FCFA.
+le ticket de la personne de 15 ans est de 1500 FCFA.
+le ticket de la personne de 16 ans est de 2500 FCFA.
+le ticket de la personne de 17 ans est de 2500 FCFA.
+le ticket de la personne de 18 ans est de 2500 FCFA.
+le ticket de la personne de 19 ans est de 2500 FCFA.
+le ticket de la personne de 20 ans est de 2500 FCFA.
+la recette est de 20000 FCFA
+
+Question3
+le ticket de la personne de 11 ans est de 1500 FCFA.
+le ticket de la personne de 12 ans est de 1500 FCFA.
+le ticket de la personne de 13 ans est de 1500 FCFA.
+le ticket de la personne de 14 ans est de 1500 FCFA.
+le ticket de la personne de 15 ans est de 1500 FCFA.
+le ticket de la personne de 16 ans est de 2500 FCFA.
+le ticket de la personne de 17 ans est de 2500 FCFA.
+le ticket de la personne de 18 ans est de 2500 FCFA.
+le ticket de la personne de 19 ans est de 2500 FCFA.
+le ticket de la personne de 20 ans est de 2500 FCFA.
+la recette est de 20000 FCFA
+le nombre de ticket de moins de 16 ans est de 5
+le nombre de ticket d' au moins 16 ans est de 5
+
+PARTIE2
+PS C:\Users\DELL\Documents\recette-cinema> node partie2.js
+la nouvelle recette est de 18500 FCFA
